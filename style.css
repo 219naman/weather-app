@@ -37,3 +37,11 @@ button:hover{
 #result{
     margin-top: 20px;
 }
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    background-color: #222;
+    color: rgb(128, 209, 205);
+}
